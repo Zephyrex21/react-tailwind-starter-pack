@@ -66,18 +66,6 @@ http://localhost:5173
 
 ---
 
-# 📂 Project Structure
-
-```bash
-src/
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-```
-
----
-
 # 🛠 Tech Stack
 
 - React
