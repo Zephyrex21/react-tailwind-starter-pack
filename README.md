@@ -1,16 +1,16 @@
-# React + Tailwind Starter Pack 🚀
+# React + Tailwind Starter Pack 
 
 A modern starter template built with:
 
-- ⚛️ React
-- ⚡ Vite
-- 🎨 Tailwind CSS v4
+- React
+- Vite
+- Tailwind CSS v4
 
 Perfect for quickly starting frontend projects with a clean and minimal setup.
 
 ---
 
-# 📦 Features
+# Features
 
 - React + Vite setup
 - Tailwind CSS configured
@@ -20,7 +20,7 @@ Perfect for quickly starting frontend projects with a clean and minimal setup.
 
 ---
 
-# 🚀 Installation & Setup
+# Installation & Setup
 
 ## 1. Clone the Repository
 
@@ -56,7 +56,7 @@ npm run dev
 
 ---
 
-# 🌐 Open in Browser
+# Open in Browser
 
 After running the dev server, open:
 
@@ -66,7 +66,7 @@ http://localhost:5173
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 - React
 - Vite
@@ -74,6 +74,6 @@ http://localhost:5173
 
 ---
 
-# 📜 License
+# License
 
 Free to use and modify.
